@@ -1,0 +1,17 @@
+.single {
+    padding: 2px 16px;
+    background: #fff;
+    border-radius: 8px;
+    display: block;
+    margin: 20px 10px;
+    border-left: 10px solid #16a085;
+    transition: all ease-in-out 0.3s;
+  }
+  .single:hover {
+    border-left: 12px solid #4834d4;
+  }
+
+  .container{
+      max-width: 75%;
+      margin-left: 200px;
+  }
